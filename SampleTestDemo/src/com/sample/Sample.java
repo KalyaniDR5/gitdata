@@ -6,7 +6,8 @@ public class Sample {
 		
 		System.out.println("This is sample project. ");
 		System.out.println("This is a newly added line.");
-	}
+		System.out.println("Another line added.");
+		}
 	
 	
 
